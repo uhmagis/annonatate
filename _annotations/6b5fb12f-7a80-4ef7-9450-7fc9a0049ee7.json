@@ -8,13 +8,13 @@ order: 57
         {
             "type": "TextualBody",
             "value": "\u68da\uff08NIJL \u68da\u30c8\u4e91\uff09",
-            "purpose": "commenting",
+            "purpose": "supplementing",
             "creator": {
                 "id": "uhmagis",
                 "name": "uhmagis"
             },
             "created": "2023-06-02T07:12:15.438Z",
-            "modified": "2023-06-02T07:12:17.177Z"
+            "modified": "2023-06-02T07:13:10.958Z"
         }
     ],
     "target": {
