@@ -1,0 +1,35 @@
+---
+canvas: "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198"
+order: 75
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u68da",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-02T07:37:28.465Z",
+            "modified": "2023-06-02T07:37:38.750Z"
+        }
+    ],
+    "target": {
+        "source": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=60527.7109375,2449.7119140625,329.69140625,245.55078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "925bcae0-c4a8-421b-bf6f-e6f9d26950bd.json",
+    "motivation": "commenting"
+}
