@@ -1,0 +1,35 @@
+---
+canvas: "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "[Interpretative translation]\n\nWhaler groups are limited to the regions of Kumano (Wakayama), Tosa (Kochi), and Kyushu. When I became an independent leader of a whaler group in 1796, I decided to create this document. However, because of my inexperience, I tried to learn the whaling business by becoming a group master (Danna), a manager (Shihainin), a representative (Mokudai), and sometimes engaged as a warehouse manager (Nayanin), a harpooner (Hazashi), and a seaman. I just jotted down what I learned, heard, and witnessed. Although it was difficult to describe everything accurately, I recorded it down as best I could. The harpooners would get up at 4:00 AM, and then painstakingly perform their assigned duties getting the boats ready to launch. This process was called \u2018yamami.\u2019 Whales swim as they wish in the vast Ocean. The whale spouts are like a mist and when harpooners spot these from a mountain, they hurry down, board the boats, check left and right, and briskly set out in formation. The captain of the main ship stands up and waves his baton to position the boats and directs the hunt. When they reach their goal (where the whales are), the captain again waves his baton vigorously from his ship to tell the net boats to release their nets into the water to help capture the whales. They pound on the ship railings to help guide the whales into the nets. At that very moment, an initial harpoon (Hayamori) is thrown followed by a heavy harpoon (Yorozumori). After that, swords are used fiercely. For about a quarter of a mile around, the ocean turns a deep red. The screams and struggles of the whales are indescribable and hard to capture, however, it is well worth trying to document the scenes on the scroll.\n",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-02T04:14:02.975Z",
+            "modified": "2023-06-02T04:14:05.334Z"
+        }
+    ],
+    "target": {
+        "source": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=269116.1875,879.2330932617188,8086,7153.913879394531"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1372453f-7857-4cbd-aa12-dc1478fd735d.json",
+    "motivation": "commenting"
+}
