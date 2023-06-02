@@ -1,0 +1,37 @@
+---
+canvas: "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198"
+order: 39
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u9aa8\u30ca\u30e4 (NIJL none)",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-02T06:52:26.993Z",
+            "modified": "2023-06-02T06:52:31.663Z"
+        }
+    ],
+    "target": {
+        "source": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"114928.578125,1121.034912109375 115377.1328125,1586.8282470703125 115587.86510605543,1383.894991080644 115139.31041855543,918.1016561197066\"></polygon></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d1690c03-57d4-486f-a4bd-0919717131a8.json",
+    "motivation": "commenting"
+}
