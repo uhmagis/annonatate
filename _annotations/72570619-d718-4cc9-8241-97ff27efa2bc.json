@@ -22,7 +22,7 @@ order: 23
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=155158.328125,1803.6153564453125,929.390625,5813.6756591796875"
+            "value": "xywh=155158.328125,1704.7432861328125,988.71875,5971.8709716796875"
         },
         "dcterms:isPartOf": {
             "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
