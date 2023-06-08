@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 103
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u4e5d\u5dde\u9be8\u7d44\u6d66\u30f2\u8a18\n\n\u4e00\u3000\u4e94\u5cf6\u798f\u6c5f\u9818\t\u67cf\u6d66\u3000\u51ac\u3000\u6709\u5ddd\u6d66\u51ac\u6625\u901a\u30b7\n\t\t\t\u9ec4\u5cf6\u6d66\u3000\u6625\u3000\u5b87\u4e45\u5cf6\u51ac\n\t\t\t\t\t\u5927\u7530\u6d66\u3000\u897f\u6d25\u6d66\n\t\t\t\t\t\u4e39\u5948\u6d66\n\u4e00\u3000\u540c\u51a8\u6c5f\u9818\u3000\u9b5a\u76ee\u6d66\u51ac(\u6539\u884c)\u6625\u3000\u9ed2\u702c\u6d66\n\u4e00\u3000\u5927\u6751\u9818\u3000\u3000\u6c5f\u5cf6\u6d66\u3000\u6625\u3000\u5e73\u5cf6\u6d66\u3000\u6625\n\u3000\t\t\t\t\u3000\t\u30ab\u30ad\u6d66\u3000\u3003\n\u4e00\u3000\u5e73\u6238\u9818\u3000\u3000\u524d\u76ee\u6d66\u3000\u51ac\u6625\u901a\t\u5fa1\u5d0e\u6d66\u3000\u51ac\u6625\n\u3000\u3000\t\u3000\u3000  \u52dd\u672c\u6d66\u3000\u540c\t\t\u5927\u5cf6\u6d66\u3000\u51ac\n\t\t\t\t\t\t\u6d25\u5409\u6d66\u3000\u6625\n\t\t\t\t\t\t\u5c0f\u5fb3\u8cc0\u6d66\u3000\u51ac\n\u4e00\u3000\u5510\u6d25\u9818\u3000\u3000\u5c0f\u5ddd\u5cf6\u6d66\u3000\u51ac\u6625\n\t\t\u3000\u3000  \u99ac\u6e21\u5cf6\u6d66\u3000\u51ac\n\u4e00\u3000\u7b51\u524d\u9818\u3000\u3000\u5927\u5cf6\u6d66\t\t\u65bc\u5442\u5cf6\n\u4e00\u3000\u5c0d\u99ac\u9818\u3000\u3000\u5efb\u30ea\u6d66\u3000\u51ac(\u6539\u884c)\u6625\t\u9c10\u6d66\n\t\t\u3000\u3000  \u4f0a\u5948\u6d66\u3000\u6625\t\t\u5409\u91ce\u6d66\n",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T01:34:55.640Z",
+            "modified": "2023-06-08T01:34:59.287Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=6555.705078125,774.1563110351562,5451.09765625,4443.319274902344"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e9f33f8d-3ed0-4275-9755-1bcd6faba0d4.json",
+    "motivation": "commenting"
+}
