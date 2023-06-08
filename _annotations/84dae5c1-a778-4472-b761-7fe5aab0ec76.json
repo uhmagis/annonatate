@@ -21,7 +21,7 @@ order: 64
         "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"106955.8,1102.9 113641.7,1106.5 113663.5,4487.7 111994.9,4844 109057.8,4190.6\"></polygon></svg>"
+            "value": "<svg><polygon points=\"106929.3,1126.9 113641.7,1106.5 113663.5,4487.7 111994.9,4844 109057.8,4190.6\"></polygon></svg>"
         },
         "dcterms:isPartOf": {
             "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
