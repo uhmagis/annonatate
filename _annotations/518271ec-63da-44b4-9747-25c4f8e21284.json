@@ -7,14 +7,14 @@ order: 97
     "body": [
         {
             "type": "TextualBody",
-            "value": "\u30ab\u309d\u30b9\u30f2\n\u6253\u56f3",
+            "value": "\u8229\u982d",
             "purpose": "supplementing",
             "creator": {
                 "id": "uhmagis",
                 "name": "uhmagis"
             },
             "created": "2023-06-08T01:27:21.709Z",
-            "modified": "2023-06-08T01:27:36.219Z"
+            "modified": "2023-06-08T01:28:21.824Z"
         }
     ],
     "target": {
