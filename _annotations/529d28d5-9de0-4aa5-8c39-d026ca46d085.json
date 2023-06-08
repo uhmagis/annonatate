@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 88
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u7db2\u682b\u8005\u5099\u5f8c\u9818\u7530\u5cf6\u30c8\u4e91\u6240\n\u30e8\u30ea\u4e0b\u30eb\u524d\u4f5c\u4e8b\u4e2d\u8cc3\u92ad\u4e00\u65e5\n\u516b\u5341\u6587\u5e76\u7384\u7c73\u4e00\u5347\u5b9b\u6b64\u4eba\u6570\u30ce\n\u5185\u30cb\u7db2\u5927\u5de5\u30a2\u30ea\u662f\u30cf\u4e00\u65e5\u767e\u4e8c\u5341\u6587\n\u98ef\u7c73\u30cf\u53f3\u30cb\u540c\u9152\u30cf\u30ab\u309d\u30b9\u6253\u521d\u7db2\n\u6f09\u521d\u30db(\u5f53?)\u4e5f\u5c24\u5341\u6708\u4ea5\u30ce\u65e5\u9905\u7c73\n\u898b\u5408\u30c4\u30ab\u30cf\u30b9\n\n\u65b0\u9020\u9be8\u8229\u52e2\u5b50\u8229\u30c8\u4e91\u30cf\u9280\n\u4e03\u767e\u4e09\u5341\u76ee\n\u53cc\u6d77\u3000\u4ee3\u9280\u4e00\u30e1\u516b\u767e\u76ee\u4e5f\n\u6301\u53cc\u8229\u3000\u4e03\u767e\u516b\u5341\u76ee",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T01:10:09.987Z",
+            "modified": "2023-06-08T01:10:14.830Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=76366.5,2908.955322265625,2606.515625,1968.982666015625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "529d28d5-9de0-4aa5-8c39-d026ca46d085.json",
+    "motivation": "commenting"
+}
