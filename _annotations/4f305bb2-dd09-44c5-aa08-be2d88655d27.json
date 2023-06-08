@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 84
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u9be8\u7d44\u524d\u7d30\u5de5\u4e4b\u6b21\u7b2c\n\u524d\u7d30\u5de5\u30c8\u4e91\u30cf\u590f\u30ce\u6bd4\u30e8\u30ea\u51ac\u5c0f\u5bd2\u5341\u65e5\u524d\u30f2\u9650\u30ea\u30c8\u30b9\u590f\u53d6\u639b\u30ea\u524d\u5e74\u4ed5\u7acb\u30bf\u30eb\u54c1\u3005\u30f2\u53c8\u592b\u3005\u30cb\n\u624b\u30f2\u5165\u4e8b\u4e5f\u7db1\u76f4\u30b7\u65b0\u4ed5\u7acb\u5e76\u30ab\u309d\u30b9\u4e07\u529b\u8272\u3005\u6709\u53c8\u8229\u5927\u5de5\u30cf\u8229\u4fee\u7406\u30b7\u6ad3\u5176\u5916\u5c0f\u9053\u5177\n\u30f2\u62f5\u4e5f\u6876\u5c4b\u935b\u51b6\u5c4b\u5176\u5916\u8af8\u8077\u4eba\u7d30\u5de5\u5834\u4e5f\u53c8\u652f\u914d\u4eba\u30c8\u30c6\u524d\u7d30\u5de5\u5834\u30f2\u60e3\u53d7\u6301\u30bf\u30eb\u51fa\u982d\u6709\n\u592b\u30cb\u9644\u6dfb\u76ee\u4ee3\u30c8\u30c6\u6578\u4eba\u6709\u53f3\u30ce\u8005\u30ce\u53d6\u8a08\u30f2\u4ee5\u65e5\u96c7\u30f2\u5165\u842c\u4e8b\u53d6\u6597\u30d2\u4e8b\u4e5f\u8352\u5897\u4ed5\u7acb\u8005\u5de6\u30cb\u8a18\u30b9",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T01:06:41.929Z",
+            "modified": "2023-06-08T01:06:47.180Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=82663.4609375,677.7056884765625,1502.6328125,6950.9461669921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4f305bb2-dd09-44c5-aa08-be2d88655d27.json",
+    "motivation": "commenting"
+}
