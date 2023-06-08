@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 89
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u5c0f\u9644\t\t\u4e00\u623f\t    \u639b\u76ee\u4e09\u30e1\u4e09\u767e\u76ee\n                            \u4e09\u5341\u4e09\u5c0b\u682b\n                            \u6253\u7acb\u56db\u30c4\u5207\n\u8f46\u8f64\u7db2\t\u4e00\u623f\t    \u5341\u4e8c\u30e1\u76ee\n\t\t\t    \u4e8c\u5341\u4e94\u5c0b\n\n\u6295\u6700\u5408\t\u4e00\u623f\t    \u4e00\u30e1\u4e94\u767e\u76ee\n\t\t\t    \u4e8c\u5341\u4e03\u5c0b\n\u65e9\u7dd2\t\t\u4e00\u7b4b\t    \u639b\u76ee\u5341\u4e03\u516b\u5301\u5efb\u30ea\n\u5c0f\u53e3\t\t\u4e00\u30c4\t    \u540c\u3000\u4e09\u5301\u4e94\u6b69\n\u30a4\u30cf\u30e9\u7db2\t\u4e00\u623f\t    \u53e4\u7db2\u30ab\u309d\u30b9\u5973 (?)\n\t\t\t    \u4e03\u623f\u30cb\u30c6\u6253\n\u7db2\u8449\u7e04\t\u4e00\u623f\t    \u5e02\u76ae\u30cb\u30c6\u4e8c\u5341\u4e94\n\t\t\t    \u5c0b\n\u690e\u76ae\t\t\u65b0\u53e4\u5171\u7db2\u30ab\u309d\u30b9\u67d3\u30eb\u54c1\u4e5f\n\t\t\u4e00\u623f\u30cb\u4ed8\u4e00\u65a4\u4e09\u5408\u4f59",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T01:10:52.063Z",
+            "modified": "2023-06-08T01:15:38.852Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=79186.7421875,5226.001953125,3081.21875,2075.849609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1c8f1619-6b9e-4f22-9394-ade3f1f93a6d.json",
+    "motivation": "commenting"
+}
