@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 60
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u6cb9\u901a\u6876\n\u5185\u9285\u5f35\u4e5f (NIJL This image is in frame 54)",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T00:31:47.998Z",
+            "modified": "2023-06-08T00:31:53.429Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=123007.703125,1395.8690185546875,792.21875,975.8880615234375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8d921e39-3ecf-415e-a749-5ac080f1765f.json",
+    "motivation": "commenting"
+}
