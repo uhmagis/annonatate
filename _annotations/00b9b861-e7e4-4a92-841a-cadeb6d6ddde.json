@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 87
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u7db2\u30ab\u30e9\u30b9\uff08\u30ab\u309d\u30b9?\uff09\t\u4e00\u623f\t\u639b\u76ee\u4e03\u767e\u4e8c\u5341\u76ee\n\u4e8c\u5341\u4e94\u5c0b\n\u6253\u7acb\u5341\u516b\u5c0b\n\u842c\u30ab\u309d\u30b9\t\t\u3000\t\u4e00\u623f\t\u540c\u4e8c\u30e1\uff08\u76ee?\uff09\u4e03\u767e\u76ee\n\t\t\t\t\t\u540c\u30cf\u30d8\u4e17\u4e00\u5c0b\u534a\n\u30b7\u30e9\u30bb\t\t\t\u4e00\u623f\t\u540c\u4e00\u30e1\u56db\u767e\u76ee\n\t\t\t\t\t\u540c\u4e17\u4e00\u5c0b\u534a\n\u6839\u8362\t\t\t\t\u4e00\u623f\t\u540c\u4e8c\u30e1\u4e8c\u767e\u76ee\n\t\t\t\t\t\u540c\u5eff\u516b\u5c0b\n\u80f4\u7e04\t\t\t\t\u4e00\u623f\t\u540c\u3000\u56db\u30e1\u76ee\n\t\t\t\t\t\u4e8c\u5341\u4e03\u5c0b\u682b\n\u5931\u7e04\t\t\t\t\u4e00\u623f\u3000\u4e8c\u767e\u516b\u5341\u76ee\n\t\t\t\t\t\u30b9\u30cf\u30d8\u5341\u4e03\u5c0b\u534a\n\u7a81\u51fa\t\t\t\t\u4e00\u623f\u3000\u767e\u4e94\u516d\u5341\u76ee\n\t\t\t\t\t\u540c\u4e03\u5341\u5c0b\u534a\n\u4e09\u5c3a\t\t\t\t\u4e00\u7b4b\t\u5e02\u76ae\u30cb\u30c6\u682b\u4e5f\n\t\t\t\t\t\u662f\u30cf\u7db2\u30f2\u30a2\u30df\n\t\t\t\t\t\u30cb\u30af\u309d\u30ea\u4ed8\u30eb\u4e5f",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-08T01:09:36.805Z",
+            "modified": "2023-06-08T01:09:41.771Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=79103.3671875,2931.42529296875,3134.9453125,1997.365478515625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00b9b861-e7e4-4a92-841a-cadeb6d6ddde.json",
+    "motivation": "commenting"
+}
