@@ -1,0 +1,152 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "true": [
+      "Geigyoran Shoroku"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "true": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "English description"
+        ],
+        "jp": [
+          "Japanese description"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "true": [
+        true
+      ]
+    },
+    "value": {
+      "true": [
+        "Attribution"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "right-to-left",
+  "items": [
+    {
+      "id": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Scroll 1"
+        ]
+      },
+      "homepage": {
+        "type": "Text"
+      },
+      "height": 8234,
+      "width": 285604,
+      "items": [
+        {
+          "id": "https://example.org/uuid/e8646a9f-11c2-4934-b28f-a5df5e59ce79",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://0c540988-3dfd-4e95-b146-2322436e2ef7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+              "body": {
+                "id": "https://i3f.xyz/Whaling_Scrolls_1819_0001_0002/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8234,
+                "width": 285604,
+                "service": [
+                  {
+                    "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0001_0002",
+                    "@type": "ImageService2",
+                    "profile": [
+                      "http://iiif.io/api/image/2/level0.json",
+                      {
+                        "formats": [
+                          "jpg"
+                        ],
+                        "qualities": [
+                          "default"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+      "type": "Canvas",
+      "label": {
+        "true": [
+          "Scroll 2"
+        ]
+      },
+      "homepage": {
+        "type": "Text"
+      },
+      "height": 8275,
+      "width": 247101,
+      "items": [
+        {
+          "id": "https://example.org/uuid/0c00533f-138c-4242-a1de-05bc6c4faa18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://634f946c-12dd-46e0-92fb-ac4d97a5866b",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+              "body": {
+                "id": "https://i3f.xyz/Whaling_Scrolls_1819_0002_0002/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8275,
+                "width": 247101,
+                "service": [
+                  {
+                    "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0002_0002",
+                    "@type": "ImageService2",
+                    "profile": [
+                      "http://iiif.io/api/image/2/level0.json",
+                      {
+                        "formats": [
+                          "jpg"
+                        ],
+                        "qualities": [
+                          "default"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
