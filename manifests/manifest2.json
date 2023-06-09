@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Geigyoran Shoroku",
+  "metadata": [],
+  "description": [
+    {
+      "@value": "English description",
+      "@language": "en"
+    },
+    {
+      "@value": "Japanese description",
+      "@language": "jp"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Attribution",
+  "sequences": [
+    {
+      "@id": "http://974b321a-b8d4-4aca-a294-a42e9a0eec27",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198",
+          "@type": "sc:Canvas",
+          "label": "Scroll 1",
+          "height": 8234,
+          "width": 285604,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://0c540988-3dfd-4e95-b146-2322436e2ef7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0001_0002/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0001_0002",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                "height": 8234,
+                "width": 285604
+              },
+              "on": "http://b8bdcfdb-ec17-4946-83b0-31dfd9f91198"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+          "@type": "sc:Canvas",
+          "label": "Scroll 2",
+          "height": 8275,
+          "width": 247101,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://634f946c-12dd-46e0-92fb-ac4d97a5866b",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0002_0002/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://i3f.xyz/Whaling_Scrolls_1819_0002_0002",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                "height": 8275,
+                "width": 247101
+              },
+              "on": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+            }
+          ],
+          "related": ""
+        }
+      ]
+    }
+  ],
+  "structures": [],
+  "viewingDirection": "right-to-left"
+}
