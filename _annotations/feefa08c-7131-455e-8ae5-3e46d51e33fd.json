@@ -1,0 +1,35 @@
+---
+canvas: "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b"
+order: 110
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u53cc\u6d77\u4e00\u8258\u6c96\u7acb\u9053\u5177\u4ed5\u8fbc\u65b9\n\u4e00\u7db1\t\u5341\u4e5d\u53cd\t\u4e00\u7887\t\t\u4e09\u756a\u5341\u4e8c\u30e1(\u8cab?)\n\t\t\t\t\t\t        \u5341\u56db\u30e1(\u8cab?)\u8fc4\n\u4e00\u6ad3\t\u516b\u4e01\t\t\u4e00\u65e9\u7dd2\t\u516b\u4e01\u5206\n\u4e00\u696b\t\u4e00\u7fbd\t\t\u4e00\u5c0f\u53e3\t\u516b\u4e01\u5206\n\u4e00\u67f1\t\u4e00\u672c\t\t\u4e00\u7db1\t\t\u56db\u623f\u30aa\u30cf\u30e9\u30cb\u30c6\n\t\t\t\t\t\t\u3000\u3000\u30d2\u30ce\u30ad\n\u4e00\u6841\t\u4e00\u672c\t\t\u4e00\u6295\u6700\u5408\t\u4e00\u623f\n\t\t\t\t\u3000\u65b0\u6253\u7acb\u4e00\u8cab\u4e8c\u767e\u76ee\n\u4e00\u30cf\u30b9\t\u4e00\u623f\t\t\u4e00\u30db\u30c6\u7db2\t\u4e00\u623f\n\u4e00\u5e06\t\u4e00\u5f35\t\t\u4e00\u982d\u7db2\t\u4e8c\u623f\n\u4e00\u696b\u5efb\u9053\u5177\t\t\u4e00\u30c4\u30ab\u30a4\u6c34\u82e7\u5341\u4e8c\u672c\n\u3000\u6c34\u8d8a\t\u4e09\u5c0b\t\t\u4e00\u6c34\u7aff\t\u5341\u4e8c\u672c\n\u3000\u5c3b\u30ab\u30b1\t\u4e8c\u5c0b\n\u3000\u30cf\u30ca\u30ab\u30b1\u4e8c\u5c0b\t\t\u4e00\u5370\u72b6\t\u7af9\u5171\u30cb\n\u3000\u30cf\u5b50\u6c34\u8d8a\n\n\u4e00\u7fbd\u91dc\t\u4e8c\u30c4\t\t\u4e00\u706b\u5e8a\t\u4e00\u30c4\n\u4e00\u6c34\u6876\t\u4e00\u4e01\t\t\u4e00\u8377\u5185\t\u4e00\u8377\n\u4e00\u67c4\u9577\t\u4e00\u672c\n\u4e00\u30ce\u30df\u9248\t\u4e00\u4e01\u5b9b\n\u4e00\u5408\u9375\t\u4e00\u4e01\n\u4e00\u82eb\t\u4e94\u5341\u679a",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "uhmagis",
+                "name": "uhmagis"
+            },
+            "created": "2023-06-10T23:37:20.009Z",
+            "modified": "2023-06-10T23:37:24.486Z"
+        }
+    ],
+    "target": {
+        "source": "http://c0c9565b-0013-4f59-a6f9-4a9e4fed5e6b",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=107727.765625,1110.8477783203125,5850.4765625,3716.6156005859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://uhmagis.github.io/annonatate/manifests/raw/8cd9bad0a4479172c1fd305d84b618c1abac39c6/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "feefa08c-7131-455e-8ae5-3e46d51e33fd.json",
+    "motivation": "commenting"
+}
